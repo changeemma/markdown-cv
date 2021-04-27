@@ -27,18 +27,15 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`August 2012 - now`
+__University of Buenos Aires, Argentina__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Electronic engineering degree. Expected graduation: December 2021
 
-- Sizar
+`2007 - 2011`
+__Colegio Nacional de Buenos Aires, Argentina__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- High school. Completed
 
 
 
