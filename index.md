@@ -13,9 +13,6 @@ Buenos Aires City, AR |
 
 ## Experience
 
-`November 2019 - April 2021`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
-
 __Field Technician__, <a href="https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino" style="text-decoration: none">*Instituto Antártico Argentino*</a>, Carlini Base, Antarctica
 
 - miembro de la cai 2020
@@ -59,12 +56,15 @@ __Colegio Nacional de Buenos Aires, Argentina__
 
 __Spanish__
 Native Speaker
+
 __Korean__
 - Native Speaker
 `2012`
 - Test of Profiecency in Korean (TOPIK) - C1
+
 __English__
 Advanced
+
 __German__
 - Basic
 `2016`
