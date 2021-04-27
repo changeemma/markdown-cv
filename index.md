@@ -5,27 +5,41 @@ title: Emmanuel Chang's CV
 # Emmanuel Chang
 Software Developer, Electronic Engineering Student.
 
-Condarco 435, Buenos Aires City, Argentina
-
 <div id="webaddress">
 Buenos Aires City, AR |
 <a href="mailto:changeemma@gmail.com">changeemma@gmail.com</a> |
 +54 11-3121-3390
 </div>
 
+## Experience
 
-## Currently
+`November 2019 - April 2021`
+**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
 
-Standing on the shoulders of giants
+__Field Technician__, <a href="https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino" style="text-decoration: none">*Instituto Antártico Argentino*</a>, Carlini Base, Antarctica
 
-### Specialized in
+- miembro de la cai 2020
+- a cargo de trabajo de campo de proyectos cientificos 
+- a cargo de los enlaces satelitales y la red local
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`December 2018 - November 2019`
+__Software Developer__, <a href="https://iquall.net/" style="text-decoration: none">*Iquall Networks*</a>, Buenos Aires, Argentina
 
+- desarrollo de framework de automatizacion de redes en python, utilizando tecnologias airflow, ansible, influxdb, mongodb 
+- integración de la plataforma con apis de terceros
+- participación en el diseño del producto segun necesidades del cliente
 
-### Research interests
+`November 2017 - December 2018`
+__IT Intern__, <a href="https://www.ign.gob.ar/" style="text-decoration: none">*National Geographic Institute of Argentina*</a>, Buenos Aires, Argentina
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- documentacion y configuracion de receptores gps de una larga red argentina
+- colaboración en la plataforma de administración (php)
+- desarrollo de rutinas automatizadas para el servicio internacional de la hora (bash)
+
+`April 2015 - February 2017`
+__Bilingual Operator__, <a href="https://www.icbc.com.ar/" style="text-decoration: none">*Industrial and Commercial Bank of China*</a>, Buenos Aires, Argentina
+- atencion a clientes de habla coreana
+- brindar asesoramiento acerca de productos y procedimientos bancarios
 
 
 ## Education
@@ -41,69 +55,20 @@ __Colegio Nacional de Buenos Aires, Argentina__
 - High school. Completed
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 ## Languages
 
-### Spanish
-
+__Spanish__
 Native Speaker
-
-
-### English
-
-Advanced
-
-### Korean
-
-Native Speaker
+__Korean__
+- Native Speaker
 `2012`
-Test of Profiecency in Korean (TOPIK) - C1
-
-### German
-
-Basic
+- Test of Profiecency in Korean (TOPIK) - C1
+__English__
+Advanced
+__German__
+- Basic
 `2016`
-Goethe Zertificat - A2
+- Goethe Zertificat - A2
 
 
 <!-- ### Footer
