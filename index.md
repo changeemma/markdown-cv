@@ -5,9 +5,12 @@ title: Emmanuel Chang's CV
 # Emmanuel Chang
 Software Developer, Electronic Engineering Student.
 
+Condarco 435, Buenos Aires City, Argentina
+
 <div id="webaddress">
-<a href="changeemma@gmail.com">changeemma@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+Buenos Aires City, AR |
+<a href="mailto:changeemma@gmail.com">changeemma@gmail.com</a> |
++54 11-3121-3390
 </div>
 
 
@@ -79,6 +82,28 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
+## Languages
+
+### Spanish
+
+Native Speaker
+
+
+### English
+
+Advanced
+
+### Korean
+
+Native Speaker
+`2012`
+Test of Profiecency in Korean (TOPIK) - C1
+
+### German
+
+Basic
+`2016`
+Goethe Zertificat - A2
 
 
 <!-- ### Footer
