@@ -3,7 +3,7 @@ layout: cv
 title: Emmanuel Chang's CV
 ---
 # Emmanuel Chang
-Software Developer, Electronic Engineering Student.
+Software Developer, Electronics Engineering Student.
 
 <div id="webaddress">
 Buenos Aires, AR |
@@ -12,15 +12,14 @@ Buenos Aires, AR |
 </div>
 
 ## About me
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt dignissim enim, quis bibendum est blandit a. Sed fermentum sollicitudin tincidunt. Aenean nibh leo, maximus a nisl consectetur, dictum eleifend justo. Cras tortor magna, fermentum sit amet risus a, pulvinar pulvinar lacus.
+Eager to learn and build new
 
 ## Experience
 
 `November 2019 - April 2021`
 __Overwintering Technician__\
-*[Instituto Antártico Argentino](https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino), [Carlini Antarctic Base](https://goo.gl/maps/FJC7HRojAxb5TbbU7), AQ*
-
-Participated in the 2020 Winter Campaign and 2021 Summer Campaign. Worked in Carlini's Multidisciplinary Antarctic Laboratory.
+*[Instituto Antártico Argentino](https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino), [Carlini Antarctic Base](https://goo.gl/maps/FJC7HRojAxb5TbbU7), AQ*\
+Participated in the 2020's winter and 2021's summer campaign.
 
 - Field work for multiple scientific projects.
 - Maintained and managed satellital links and local network.
@@ -28,9 +27,8 @@ Participated in the 2020 Winter Campaign and 2021 Summer Campaign. Worked in Car
 
 `December 2018 - November 2019`
 __Software Developer__\
-*[Iquall Networks](https://iquall.net/), Buenos Aires, AR*
-
-Developed a network operations automation framework (MAT) for clients with a nation-wide impact such as Claro, Telefónica and Telecom.
+*[Iquall Networks](https://iquall.net/), Buenos Aires, AR*\
+Developed a network automation framework (MAT) for clients with a nation-wide impact such as Claro, Telefónica and Telecom.
 
 - Designed and implemented processing modules and REST API.
 - Integrated MAT framework with third-party APIs according to client needs.
@@ -39,8 +37,7 @@ Developed a network operations automation framework (MAT) for clients with a nat
 
 `November 2017 - December 2018`
 __IT Intern__\
-*[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR*
-
+*[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR*\
 Joined Geodesy Department as an IT intern to collaborate in the management of the Argentine Continuous Satellital Monitoring Network (RAMSAC) which has several GNSS receivers across Argentina. Also worked in Argentina's International Hour Service (SIH) that contributes to the materialization of the UTC.
 
 - Elaborated GNSS receiver's configuration and operation procedures documentation.
@@ -51,7 +48,7 @@ Joined Geodesy Department as an IT intern to collaborate in the management of th
 __Bilingual Operator__\
 *[Industrial and Commercial Bank of China](https://www.icbc.com.ar/), Buenos Aires, AR*
 
-Retail and business banking customer services. This position opened by an agreement between ICBC and CAEMCA to provide a service to the local Korean community.
+Retail and business banking customer services.
 
 - Assisted Korean-speaking clients on banking products and procedures.
 
@@ -59,14 +56,12 @@ Retail and business banking customer services. This position opened by an agreem
 
 `August 2012 - now`
 __Faculty of Engineering, University of Buenos Aires__\
-*Buenos Aires, AR*
-
-Electronics Engineering degree. Expected graduation: December 2021.
+*Buenos Aires, AR*\
+Electronics Engineering. Expected graduation: December 2021.
 
 `2007 - 2011`
 __Colegio Nacional de Buenos Aires__\
-*Buenos Aires, AR*
-
+*Buenos Aires, AR*\
 High school. Completed.
 
 ## Languages
