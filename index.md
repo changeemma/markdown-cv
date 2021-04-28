@@ -42,7 +42,7 @@ Developed a network operations automation framework (MAT) for clients with a nat
 __IT Intern__\
 *[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR*
 
-*Joined Geodesy Department as an IT intern to collaborate in the management of the Argentine Continuous Satellital Monitoring Network (RAMSAC) which has several GNSS receivers across Argentina. Also worked in Argentina's International Hour Service (SIH) that contributes to the materialization of the UTC.*
+Joined Geodesy Department as an IT intern to collaborate in the management of the Argentine Continuous Satellital Monitoring Network (RAMSAC) which has several GNSS receivers across Argentina. Also worked in Argentina's International Hour Service (SIH) that contributes to the materialization of the UTC.
 
 - Elaborated GNSS receiver's configuration and operation procedures documentation.
 - Collaborated in the development of a management tool (php, sql, batch)
@@ -60,11 +60,13 @@ __Bilingual Operator__\
 
 `August 2012 - now`
 __University of Buenos Aires__ *Buenos Aires, AR*
-- Electronic engineering degree. Expected graduation: December 2021.
+
+Electronic engineering degree. Expected graduation: December 2021.
 
 `2007 - 2011`
 __Colegio Nacional de Buenos Aires__ *Buenos Aires, AR*
-- High school. Completed
+
+High school. Completed
 
 
 ## Languages
