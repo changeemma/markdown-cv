@@ -19,9 +19,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt di
 
 `November 2019 - April 2021`
 __Overwintering Technician__\
-*[Instituto Antártico Argentino](https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino), [Carlini Antartic Base](https://goo.gl/maps/FJC7HRojAxb5TbbU7), AQ*
+*[Instituto Antártico Argentino](https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino), [Carlini Antarctic Base](https://goo.gl/maps/FJC7HRojAxb5TbbU7), AQ*
 
-Participated in the 2020 Winter Campaign and 2021 Summer Campaign.
+Participated in the 2020 Winter Campaign and 2021 Summer Campaign. Worked in Carlini's Multidisciplinary Antarctic Laboratory.
 
 - Field work for multiple scientific projects.
 - Maintained and managed satellital links and local network.
