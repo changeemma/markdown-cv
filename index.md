@@ -6,69 +6,69 @@ title: Emmanuel Chang's CV
 Software Developer, Electronic Engineering Student.
 
 <div id="webaddress">
-Buenos Aires City, AR |
+Buenos Aires, AR |
 <a href="mailto:changeemma@gmail.com">changeemma@gmail.com</a> |
 +54 11-3121-3390
 </div>
 
+## Career objetive
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt dignissim enim, quis bibendum est blandit a. Sed fermentum sollicitudin tincidunt. Aenean nibh leo, maximus a nisl consectetur, dictum eleifend justo. Cras tortor magna, fermentum sit amet risus a, pulvinar pulvinar lacus.
+
+
 ## Experience
 
-__Field Technician__
-*<a href="https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino" style="text-decoration: none">Instituto Antártico Argentino</a>, Carlini Base, Antarctica*
+__Overwintering Technician__ <a href="https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino" style="text-decoration: none">Instituto Antártico Argentino</a>, <a href="https://goo.gl/maps/FJC7HRojAxb5TbbU7" style="text-decoration: none">Carlini Antartic Base, AQ</a>
+*Participated in the 2020 Winter Campaign and 2021 Summer Campaign.*
 
-- miembro de la cai 2020
-- a cargo de trabajo de campo de proyectos cientificos 
-- a cargo de los enlaces satelitales y la red local
+- Field work for multiple scientific projects.
+- Maintained and managed satellital links and local network.
+- Trained next overwintering technicians.
 
 `December 2018 - November 2019`
-__Software Developer__
-*<a href="https://iquall.net/" style="text-decoration: none">Iquall Networks</a>, Buenos Aires, Argentina*
+__Software Developer__ <a href="https://iquall.net/" style="text-decoration: none">Iquall Networks</a>, Buenos Aires, AR
+*Developed a network operations automation framework (MAT) for clients with a nation-wide impact such as Claro, Telefónica and Telecom.*
 
-- desarrollo de framework de automatizacion de redes en python, utilizando tecnologias airflow, ansible, influxdb, mongodb 
-- integración de la plataforma con apis de terceros
-- participación en el diseño del producto segun necesidades del cliente
+- Designed and implemented processing modules and REST API.
+- Integrated MAT framework with third-party APIs according to client needs.
+- Participated in the design and implementation of new features.
+- Technologies: Airflow, Ansible, FormIO, InfluxData's TICK stack, Grafana, Docker
 
 `November 2017 - December 2018`
-__IT Intern__
-*<a href="https://www.ign.gob.ar/" style="text-decoration: none">National Geographic Institute of Argentina</a>, Buenos Aires, Argentina*
+__IT Intern__ *<a href="https://www.ign.gob.ar/" style="text-decoration: none">Instituto Geográfico Nacional</a>, Buenos Aires, AR*
+*Joined Geodesy Department as an IT intern to collaborate in the management of the Argentine Continuous Satellital Monitoring Network (RAMSAC) which has several GNSS receivers across Argentina. Also worked in Argentina's International Hour Service (SIH) that contributes to the materialization of the UTC."*
 
-- documentacion y configuracion de receptores gps de una larga red argentina
-- colaboración en la plataforma de administración (php)
-- desarrollo de rutinas automatizadas para el servicio internacional de la hora (bash)
+- Elaborated GNSS receiver's configuration and operation procedures documentation.
+- Collaborated in the development of a management tool (php, sql, batch)
+- Developed several BASH scripts that replaced manual routines (file upload, health-check) for the SIH.
 
 `April 2015 - February 2017`
-__Bilingual Operator__
-*<a href="https://www.icbc.com.ar/" style="text-decoration: none">Industrial and Commercial Bank of China</a>, Buenos Aires, Argentina*
-- atencion a clientes de habla coreana
-- brindar asesoramiento acerca de productos y procedimientos bancarios
+__Bilingual Operator__ *<a href="https://www.icbc.com.ar/" style="text-decoration: none">ICBC</a>, Buenos Aires, AR*
+*Retail and business banking customer services. This position opened by an agreement between ICBC and CAEMCA to provide a service to the Korean community in Argentina.*
 
+- Assisted Korean-speaking clients on banking products and procedures.
 
 ## Education
 
 `August 2012 - now`
-__University of Buenos Aires, Argentina__
-- Electronic engineering degree. Expected graduation: December 2021
+__University of Buenos Aires__ *Buenos Aires, AR*
+- Electronic engineering degree. Expected graduation: December 2021.
 
 `2007 - 2011`
-__Colegio Nacional de Buenos Aires, Argentina__
+__Colegio Nacional de Buenos Aires__ *Buenos Aires, AR*
 - High school. Completed
 
 
 ## Languages
 
-__Spanish__
-Native Speaker
+__Spanish__, Native Speaker
 
-__Korean__
-`2012`
-- Native Speaker - Test of Profiecency in Korean (TOPIK): C1
+`2012` 
+__Korean__, Native Speaker - (Test of Profiecency in Korean C1)
 
-__English__
-Advanced
+__English__, Advanced
 
-__German__
 `2016`
-- Basic - Goethe Zertificat: A2
+__German__, Basic (Goethe Zertificat A2)
 
 
 <!-- ### Footer
