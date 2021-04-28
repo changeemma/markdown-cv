@@ -11,7 +11,7 @@ Buenos Aires, AR |
 +54 11-3121-3390
 </div>
 
-## Career objetive
+## About me
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt dignissim enim, quis bibendum est blandit a. Sed fermentum sollicitudin tincidunt. Aenean nibh leo, maximus a nisl consectetur, dictum eleifend justo. Cras tortor magna, fermentum sit amet risus a, pulvinar pulvinar lacus.
 
 
