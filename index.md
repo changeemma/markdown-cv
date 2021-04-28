@@ -18,6 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt di
 ## Experience
 
 __Overwintering Technician__ <a href="https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino" style="text-decoration: none">Instituto Antártico Argentino</a>, <a href="https://goo.gl/maps/FJC7HRojAxb5TbbU7" style="text-decoration: none">Carlini Antartic Base, AQ</a>
+
 *Participated in the 2020 Winter Campaign and 2021 Summer Campaign.*
 
 - Field work for multiple scientific projects.
@@ -26,6 +27,7 @@ __Overwintering Technician__ <a href="https://www.cancilleria.gob.ar/es/iniciati
 
 `December 2018 - November 2019`
 __Software Developer__ <a href="https://iquall.net/" style="text-decoration: none">Iquall Networks</a>, Buenos Aires, AR
+
 *Developed a network operations automation framework (MAT) for clients with a nation-wide impact such as Claro, Telefónica and Telecom.*
 
 - Designed and implemented processing modules and REST API.
@@ -35,6 +37,7 @@ __Software Developer__ <a href="https://iquall.net/" style="text-decoration: non
 
 `November 2017 - December 2018`
 __IT Intern__ *<a href="https://www.ign.gob.ar/" style="text-decoration: none">Instituto Geográfico Nacional</a>, Buenos Aires, AR*
+
 *Joined Geodesy Department as an IT intern to collaborate in the management of the Argentine Continuous Satellital Monitoring Network (RAMSAC) which has several GNSS receivers across Argentina. Also worked in Argentina's International Hour Service (SIH) that contributes to the materialization of the UTC."*
 
 - Elaborated GNSS receiver's configuration and operation procedures documentation.
@@ -43,6 +46,7 @@ __IT Intern__ *<a href="https://www.ign.gob.ar/" style="text-decoration: none">I
 
 `April 2015 - February 2017`
 __Bilingual Operator__ *<a href="https://www.icbc.com.ar/" style="text-decoration: none">ICBC</a>, Buenos Aires, AR*
+
 *Retail and business banking customer services. This position opened by an agreement between ICBC and CAEMCA to provide a service to the Korean community in Argentina.*
 
 - Assisted Korean-speaking clients on banking products and procedures.
