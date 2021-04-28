@@ -58,16 +58,16 @@ Retail and business banking customer services. This position opened by an agreem
 ## Education
 
 `August 2012 - now`
-__Electronics engineering degree__\
-*University of Buenos Aires, Buenos Aires, AR*
+__Faculty of Engineering, University of Buenos Aires__\
+*Buenos Aires, AR*
 
-Expected graduation: December 2021.
+Electronics Engineering degree. Expected graduation: December 2021.
 
 `2007 - 2011`
-__High school__\
-*Colegio Nacional de Buenos Aires, Buenos Aires, AR*
+__Colegio Nacional de Buenos Aires__\
+*Buenos Aires, AR*
 
-Completed.
+High school. Completed.
 
 ## Languages
 
