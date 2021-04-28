@@ -14,7 +14,6 @@ Buenos Aires, AR |
 ## About me
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt dignissim enim, quis bibendum est blandit a. Sed fermentum sollicitudin tincidunt. Aenean nibh leo, maximus a nisl consectetur, dictum eleifend justo. Cras tortor magna, fermentum sit amet risus a, pulvinar pulvinar lacus.
 
-
 ## Experience
 
 `November 2019 - April 2021`
@@ -52,22 +51,23 @@ Joined Geodesy Department as an IT intern to collaborate in the management of th
 __Bilingual Operator__\
 *[Industrial and Commercial Bank of China](https://www.icbc.com.ar/), Buenos Aires, AR*
 
-*Retail and business banking customer services. This position opened by an agreement between ICBC and CAEMCA to provide a service to the local Korean community.*
+Retail and business banking customer services. This position opened by an agreement between ICBC and CAEMCA to provide a service to the local Korean community.
 
 - Assisted Korean-speaking clients on banking products and procedures.
 
 ## Education
 
 `August 2012 - now`
-__University of Buenos Aires__ *Buenos Aires, AR*
+__Electronics engineering degree__\
+*University of Buenos Aires, Buenos Aires, AR*
 
-Electronic engineering degree. Expected graduation: December 2021.
+Expected graduation: December 2021.
 
 `2007 - 2011`
-__Colegio Nacional de Buenos Aires__ *Buenos Aires, AR*
+__High school__\
+*Colegio Nacional de Buenos Aires, Buenos Aires, AR*
 
-High school. Completed
-
+Completed.
 
 ## Languages
 
