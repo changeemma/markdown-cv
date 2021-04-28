@@ -61,7 +61,7 @@ Retail and business banking customer services.
 
 ## Education
 
-`August 2012 - now`
+`August 2012 - present`
 __Faculty of Engineering, University of Buenos Aires__\
 *Buenos Aires, AR*\
 Electronics Engineering. Expected graduation: December 2021.
