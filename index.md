@@ -74,12 +74,12 @@ High school. Completed
 __Spanish__ Native Speaker
 
 `2012` 
-__Korean__ Native Speaker - (Test of Profiecency in Korean C1)
+__Korean__ Native Speaker - Test of Profiecency in Korean C1
 
 __English__ Advanced
 
 `2016`
-__German__ Basic (Goethe Zertificat A2)
+__German__ Basic - Goethe Zertificat A2
 
 
 <!-- ### Footer
