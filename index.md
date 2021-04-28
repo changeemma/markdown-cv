@@ -12,7 +12,15 @@ Buenos Aires, AR |
 </div>
 
 ## About me
-Eager to learn and build new
+Software developer who loves solving challenging problems and is eager to work with a team of professionals to learn while achieving common goals.
+Also student of electronic engineering with orientation to software and signal processing.
+
+## Technical skills
+
+- Languages: C, C++, Python, Go, Java, SQL, Matlab, VHDL
+- Tools: Docker, Git, Google
+- Procedural and Object-Oriented programming 
+- Agile values and principles
 
 ## Experience
 
@@ -31,23 +39,22 @@ __Software Developer__\
 Developed a network automation framework (MAT) for clients with a nation-wide impact such as Claro, Telefónica and Telecom.
 
 - Designed and implemented processing modules and REST API.
-- Integrated MAT framework with third-party APIs according to client needs.
+- Integrated MAT framework with third-party APIs according to client requirement.
 - Participated in the design and implementation of new features.
-- Technologies: Airflow, Ansible, FormIO, InfluxData's TICK stack, Grafana, Docker
+- Technologies: Python, Airflow, Ansible, FormIO, InfluxData's TICK stack, Grafana, Docker
 
 `November 2017 - December 2018`
 __IT Intern__\
 *[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR*\
-Joined Geodesy Department as an IT intern to collaborate in the management of the Argentine Continuous Satellital Monitoring Network (RAMSAC) which has several GNSS receivers across Argentina. Also worked in Argentina's International Hour Service (SIH) that contributes to the materialization of the UTC.
+Joined Geodesy Department as an IT intern to collaborate in the management of several GNSS receivers distributed throughout Argentina.
 
 - Elaborated GNSS receiver's configuration and operation procedures documentation.
-- Collaborated in the development of a management tool (php, sql, batch)
-- Developed several BASH scripts that replaced manual routines (file upload, health-check) for the SIH.
+- Collaborated in the development of a management tool (Python, PHP, SQL, Batch)
+- Developed several scripts that replaced manual routines (file uploads, health-checks).
 
 `April 2015 - February 2017`
 __Bilingual Operator__\
-*[Industrial and Commercial Bank of China](https://www.icbc.com.ar/), Buenos Aires, AR*
-
+*[Industrial and Commercial Bank of China](https://www.icbc.com.ar/), Buenos Aires, AR*\
 Retail and business banking customer services.
 
 - Assisted Korean-speaking clients on banking products and procedures.
@@ -64,18 +71,9 @@ __Colegio Nacional de Buenos Aires__\
 *Buenos Aires, AR*\
 High school. Completed.
 
-## Languages
+## Aditional Information
 
-__Spanish__ Native Speaker
-
-`2012` 
-__Korean__ Native Speaker - Test of Profiecency in Korean C1
-
-__English__ Advanced
-
-`2016`
-__German__ Basic - Goethe Zertificat A2
-
+__Languages__: Spanish (native), Korean (native), English (advanced), German (basic)
 
 <!-- ### Footer
 
