@@ -49,16 +49,17 @@ __IT Intern__\
 *[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR*\
 Joined Geodesy Department as an IT intern to collaborate in the management of several GNSS receivers distributed throughout Argentina.
 
-- Elaborated GNSS receiver's configuration and operation procedures documentation.
-- Collaborated in the development of a management tool (Python, PHP, SQL, Batch)
-- Developed several scripts that replaced manual routines (file uploads, health-checks).
+- Elaborated configuration and operation protocols for GNSS receivers.
+- Collaborated on the development of a management tool.
+- Automated daily tasks such as file uploads, health-checks.
+- Technologies: Python, PHP, SQL, BASH, Batch
 
 `April 2015 - February 2017`
 __Bilingual Operator__\
 *[Industrial and Commercial Bank of China](https://www.icbc.com.ar/), Buenos Aires, AR*\
 Retail and business banking customer services.
 
-- Assisted Korean-speaking clients on banking products and procedures.
+- Assisted Korean-speaking clients with banking products and procedures.
 
 ## Education
 
