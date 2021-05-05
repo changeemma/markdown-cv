@@ -13,8 +13,8 @@ Software Developer, Electronics Engineering Student.
 </div>
 
 ## About me
-Software developer who loves solving challenging problems and is eager to work with a team of professionals to learn while achieving common goals.
-Also student of electronic engineering with orientation to software and signal processing.
+Software developer who loves solving challenging problems and is eager to work as part of a team of professionals to achieve common goals while learning.
+Student of electronic engineering with orientation to software and signal processing.
 
 ## Technical skills
 
@@ -28,7 +28,7 @@ Also student of electronic engineering with orientation to software and signal p
 `November 2019 - April 2021`
 __Overwintering Technician__\
 *[Instituto Antártico Argentino](https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino), [Carlini Antarctic Base](https://goo.gl/maps/FJC7HRojAxb5TbbU7), AQ*\
-Participated in the 2020's winter and 2021's summer campaign.
+Participated in the 2020's summer, 2020's winter and 2021's summer campaigns.
 
 - Field work for multiple scientific projects.
 - Maintained and managed satellital links and local network.
@@ -37,7 +37,7 @@ Participated in the 2020's winter and 2021's summer campaign.
 `December 2018 - November 2019`
 __Software Developer__\
 *[Iquall Networks](https://iquall.net/), Buenos Aires, AR*\
-Developed a network automation framework (MAT) for clients with a nation-wide impact such as Claro, Telefónica and Telecom.
+Developed a network automation framework for clients with nationwide impact such as Claro, Telefónica and Telecom.
 
 - Designed and implemented processing modules and REST API.
 - Integrated MAT framework with third-party APIs according to client requirement.
