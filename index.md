@@ -18,12 +18,21 @@ Student of electronic engineering with orientation to software and signal proces
 
 ## Technical skills
 
-- Languages: C, C++, Python, Go, Java, SQL, Matlab, VHDL
-- Tools: Docker, Git, Google
-- Procedural and Object-Oriented programming 
+- Languages: Python, Go, Java, SQL, Matlab, C, C++, VHDL
+- Tools: Docker, Kubernetes, Git, Google (StackOverflow)
+- Procedural and Object-Oriented programming
 - Agile values and principles
 
 ## Experience
+
+`June 2019 - current`
+__Software Developer__\
+*[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
+Worked in Networking Core team alongside network engineers to develop networking applications. 
+- Developed a speedtest tool for measure connection bandwidth through VPN.
+- Developed and deployed a REST API that offers networking operations as a services.
+- Automated processes: calculate and display network device's obsolescence; synchronize inventory from different sources
+- Deployed and maintained monitoring tools such as Telegraf, Prometheus and Zabbix, and generated dashboards to visualize it.
 
 `November 2019 - April 2021`
 __Overwintering Technician__\
@@ -40,7 +49,7 @@ __Software Developer__\
 Developed a network automation framework for clients with nationwide impact such as Claro, Telefónica and Telecom.
 
 - Designed and implemented processing modules and REST API.
-- Integrated MAT framework with third-party APIs according to client requirement.
+- Developed third-party API integrations to the framework according to client requirement.
 - Participated in the design and implementation of new features.
 - Technologies: Python, Airflow, Ansible, FormIO, InfluxData's TICK stack, Grafana, Docker
 
