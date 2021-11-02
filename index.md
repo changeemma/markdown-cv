@@ -29,7 +29,7 @@ Student of electronic engineering with orientation to software and signal proces
 __Software Developer__\
 *[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
 Worked in Networking Core team alongside network engineers to develop networking applications. 
-- Developed a speedtest tool for measure connection bandwidth through VPN.
+- Developed a speedtest tool to measure connection bandwidth through VPN.
 - Developed and deployed a REST API that offers networking operations as a services.
 - Automated processes: calculate and display network device's obsolescence; synchronize inventory from different sources
 - Deployed and maintained monitoring tools such as Telegraf, Prometheus and Zabbix, and generated dashboards to visualize it.
