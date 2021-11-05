@@ -25,7 +25,7 @@ Student of electronic engineering with orientation to software and signal proces
 
 ## Experience
 
-`June 2019 - current`
+`June 2021 - current`
 __Software Developer__\
 *[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
 Worked in Networking Core team alongside network engineers to develop networking applications. 
