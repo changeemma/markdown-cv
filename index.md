@@ -30,10 +30,11 @@ Always looking to adopt best practices and habits in order to become a better pr
 __Software Developer__\
 *[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
 Worked in Networking Core team alongside network engineers to develop networking applications. 
-- Developed a speedtest tool to measure connection bandwidth through VPN.
-- Developed and deployed a REST API that offers networking operations as a services.
+- Developed a REST API that offers networking operations as a services using FastAPI framework.
 - Automated processes: calculate and display network device's obsolescence; synchronize inventory from different sources
+- Implemented a speedtest tool to measure connection metrics through VPN like bandwidth, ping, jitter (Javascript, PHP, MySQL)
 - Deployed and maintained monitoring tools such as Telegraf, Prometheus and Zabbix, and generated dashboards to visualize it.
+- Technologies: Python, FastAPI, Docker Swarm, PostgreSQL, MongoDB, Redis, InfluxData's TICK stack, Grafana, Docker
 
 `November 2019 - April 2021`
 __Overwintering Technician__\
@@ -85,7 +86,7 @@ High school. Completed.
 
 ## Aditional Information
 
-__Languages__: Spanish (native), Korean (native), English (advanced), German (basic)
+__Speaking languages__: Spanish (native), Korean (native), English (advanced), German (basic)
 
 <!-- ### Footer
 
