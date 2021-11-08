@@ -13,8 +13,8 @@ Software Developer, Electronics Engineering Student.
 </div>
 
 ## About me
-Software developer who loves solving challenging problems and is eager to work as part of a team of professionals to achieve common goals while learning.
-Student of electronic engineering with orientation to software and signal processing.
+Software developer who loves solving challenging problems and is eager to learn working with others while achieving common goals.
+Always looking to adopt best practices and habits in order to become a better professional.
 
 ## Technical skills
 
