@@ -34,7 +34,7 @@ Worked in Networking Core team alongside network engineers to develop networking
 - Automated processes: calculate and display network device's obsolescence; synchronize inventory from different sources
 - Implemented a speedtest tool to measure connection metrics through VPN like bandwidth, ping, jitter (Javascript, PHP, MySQL)
 - Deployed and maintained monitoring tools such as Telegraf, Prometheus and Zabbix, and generated dashboards to visualize it.
-- Technologies: Python, FastAPI, Docker Swarm, PostgreSQL, MongoDB, Redis, InfluxData's TICK stack, Grafana, Docker
+- Technologies: Python, FastAPI, SQLAlchemy, Docker, PostgreSQL, MongoDB, Redis, InfluxData's TICK stack, Grafana, Docker
 
 `November 2019 - April 2021`
 __Overwintering Technician__\
