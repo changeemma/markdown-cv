@@ -31,7 +31,7 @@ Always looking to adopt best practices and habits in order to become a better pr
 `February 2022 - current`
 __Software Developer__\
 *[10Pines](https://10pines.com), Buenos Aires, AR*\
-Developed an e-commerce platform for a US based client.
+Developing an e-commerce platform for a US based client.
 - Technologies: MEVN Stack 
 
 
