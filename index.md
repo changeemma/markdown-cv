@@ -19,14 +19,23 @@ Always looking to adopt best practices and habits in order to become a better pr
 
 ## Technical skills
 
-- Languages: Python, Go, Java, SQL, Matlab, C, C++, VHDL
+- Languages: Python, Go, Java, JavaScript, SQL, Matlab, C, C++, VHDL
+- Frameworks: VueJs, NodeJS
 - Tools: Docker, Kubernetes, Git, Google (StackOverflow)
 - Procedural and Object-Oriented programming
 - Agile values and principles
 
 ## Experience
 
-`June 2021 - current`
+
+`February 2022 - current`
+__Software Developer__\
+*[10Pines](https://10pines.com), Buenos Aires, AR*\
+Developed an e-commerce platform for a US based client.
+- Technologies: MEVN Stack 
+
+
+`June 2021 - February 2022`
 __Software Developer__\
 *[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
 Worked in Networking Core team alongside network engineers to develop networking applications. 
