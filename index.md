@@ -43,14 +43,12 @@ Participated as overwintering technician in 2020’s summer and winter campaigns
 `December 2018 - November 2019`
 __Software Developer__ \
 *[Iquall Networks](https://iquall.net/), Buenos Aires, AR*\
-Developed a network automation framework for clients with nationwide impact.\
-Technologies Used: Airflow, Ansible, MongoDB, Grafana, InfluxData’s TICK stack
+Developed a network automation framework for clients with nationwide impact. Technologies Used: Airflow, Ansible, MongoDB, Grafana, InfluxData’s TICK stack
 
 `November 2017 - December 2018`
 __IT Intern__ \
 *[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR*\
-Joined Geodesy Department as an IT intern to collaborate in the management of several GNSS receivers distributed throughout Argentina.\
-*Technologies Used: PHP, Python, BASH scripting*
+Joined Geodesy Department as an IT intern to collaborate in the management of several GNSS receivers distributed throughout Argentina. Technologies Used: PHP, Python, BASH scripting.
 
 ## Education
 
