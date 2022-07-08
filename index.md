@@ -23,9 +23,9 @@ Always looking to adopt best practices and habits in order to become a better pr
 `February 2022 - current`
 __Software Developer__\
 *[10Pines](https://10pines.com), Buenos Aires, AR*\
-Current projects:
-- e-commerce platform: for a US based client. Developed back-end and front-end integration with an electronic payment method. Fixed components with accessibility issues to meet ADA standards. *Technologies Used: Vue.js, Node.js, Express*
-- health services locator: a SPA developed from scratch for a NGO to be used in South America. *Technologies Used: React, Typescript, Node, Express*
+Projects:
+- E-commerce platform: for a US based client. Developed back-end and front-end integration with an electronic payment method. Refactored frontend components to meet ADA standards. *Technologies Used: Vue.js, Node.js, Express*
+- Health services locator: a SPA developed from scratch for a NGO to be used in South America. *Technologies Used: React, Typescript, Node, Express*
 
 `June 2021 - February 2022`
 __Software Developer__\
@@ -33,7 +33,7 @@ __Software Developer__\
 Worked in Networking team alongside network engineers.
 - Developed a REST API that offers networking operations as a service.
 - Automated processes: compute and display obsolescence status in active devices; synchronize inventory from different platforms.
-- Implemented a speedtest tool to measure connection metrics through VPN.\
+- Implemented a speedtest tool to measure connection metrics through VPN.
 *Technologies Used: Python, FastAPI, React, InfluxDB, Grafana, Airflow, Ansible, Docker, Kubernetes*
 
 `November 2019 - April 2021`
@@ -76,7 +76,7 @@ High school. Completed.
 
 ## Aditional Information
 
-__Speaking languages__: Spanish (native), Korean (native), English (advanced), German (basic)
+__Speaking languages__: Spanish (native), Korean (native), English (advanced)
 
 <!-- ### Footer
 
