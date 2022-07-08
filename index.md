@@ -34,6 +34,7 @@ Worked in Networking team alongside network engineers.
 - Developed a REST API that offers networking operations as a service.
 - Automated processes: compute and display obsolescence status in active devices; synchronize inventory from different platforms.
 - Implemented a speedtest tool to measure connection metrics through VPN.
+
 *Technologies Used: Python, FastAPI, React, InfluxDB, Grafana, Airflow, Ansible, Docker, Kubernetes*
 
 `November 2019 - April 2021`
