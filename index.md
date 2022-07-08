@@ -6,10 +6,9 @@ title: Emmanuel Chang's CV
 Software Developer, Electronics Engineering Student.
 
 <div id="webaddress">
-<a href="https://goo.gl/maps/qRPmtAvuPA6o7p926">Buenos Aires, AR</a> |
-1993/07/28 |
+Buenos Aires, AR |
 <a href="mailto:changeemma@gmail.com">changeemma@gmail.com</a> |
-+54 11-3121-3390
+<a href="https://wa.me/541131213390">+54 11-3121-3390</a>
 </div>
 
 ## About me
