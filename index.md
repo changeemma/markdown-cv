@@ -28,10 +28,10 @@ __Software Developer__ \
 `June 2021 - February 2022`
 __Software Developer__ \
 *[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
-Worked in Networking team alongside network engineers.
-- Developed a REST API that offers networking operations as a service. Technologies Used: Python, FastAPI, Ansible
-- Automated processes: compute and display obsolescence status in active devices; synchronize inventory from different platforms. Technologies Used: Python, Airflow, Ansible, InfluxDB, Grafana
-- Implemented a speedtest tool to measure connection metrics through VPN. Technologies Used: React, PostgreSQL, Docker, Grafana
+Worked in Networking team alongside network engineers. Technologies Used: Python, FastAPI, InfluxDB, Grafana, React, PostgreSQL, Docker
+- Developed a REST API that offers networking operations as a service.
+- Automated processes: compute and display obsolescence status in active devices; synchronize inventory from different platforms.
+- Implemented a speedtest tool to measure connection metrics through VPN.
 
 `November 2019 - April 2021`
 __IT Technician__ \
