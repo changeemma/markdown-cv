@@ -23,17 +23,16 @@ Always looking to adopt best practices and habits in order to become a better pr
 `February 2022 - current`
 __Software Developer__ \
 *[10Pines](https://10pines.com), Buenos Aires, AR*\
-Projects:
-- E-commerce platform: Worked on a web platform of a leading cannabis operator in California. Refactored frontend components to meet ADA standards. Developed back-end and front-end integration with an electronic payment method. *Technologies Used: Vue.js, Node, Express, MongoDB*
-- Health services locator: a SPA developed from scratch for a NGO that allows people to search for free HIV testing and contraceptive distribution sites across South America. *Technologies Used: React, Typescript, Node, Express*
+**E-commerce platform**: Worked on a web platform of a leading cannabis operator in California. Refactored frontend components to meet ADA standards. Developed back-end and front-end integration with an electronic payment method. Technologies Used: Vue.js, Node, Express, MongoDB. \
+**Health services locator** a SPA developed from scratch for a NGO that allows people to search for free HIV testing and contraceptive distribution sites across South America. Technologies Used: React, Typescript, Node, Express
 
 `June 2021 - February 2022`
 __Software Developer__ \
 *[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
 Worked in Networking team alongside network engineers.
-- Developed a REST API that offers networking operations as a service. *Technologies Used: Python, FastAPI, Ansible*
-- Automated processes: compute and display obsolescence status in active devices; synchronize inventory from different platforms. *Technologies Used: Python, Airflow, Ansible, InfluxDB, Grafana*
-- Implemented a speedtest tool to measure connection metrics through VPN. *Technologies Used: React, PostgreSQL, Docker, Grafana*
+- Developed a REST API that offers networking operations as a service. Technologies Used: Python, FastAPI, Ansible
+- Automated processes: compute and display obsolescence status in active devices; synchronize inventory from different platforms. Technologies Used: Python, Airflow, Ansible, InfluxDB, Grafana
+- Implemented a speedtest tool to measure connection metrics through VPN. Technologies Used: React, PostgreSQL, Docker, Grafana
 
 `November 2019 - April 2021`
 __IT Technician__ \
@@ -45,7 +44,7 @@ Participated as overwintering technician in 2020’s summer and winter campaigns
 __Software Developer__ \
 *[Iquall Networks](https://iquall.net/), Buenos Aires, AR*\
 Developed a network automation framework for clients with nationwide impact.\
-*Technologies Used: Airflow, Ansible, MongoDB, Grafana, InfluxData’s TICK stack*
+Technologies Used: Airflow, Ansible, MongoDB, Grafana, InfluxData’s TICK stack
 
 `November 2017 - December 2018`
 __IT Intern__ \
