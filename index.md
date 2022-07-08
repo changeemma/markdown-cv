@@ -24,7 +24,7 @@ Always looking to adopt best practices and habits in order to become a better pr
 __Software Developer__ \
 *[10Pines](https://10pines.com), Buenos Aires, AR*\
 ***E-commerce platform***: Worked on a web platform of a leading cannabis operator in California. Refactored frontend components to meet ADA standards. Developed back-end and front-end integration with an electronic payment method. Technologies Used: Vue.js, Node, Express, MongoDB. \
-***Health services locator*** a SPA developed from scratch for a NGO that allows people to search for free HIV testing and contraceptive distribution sites across South America. Technologies Used: React, Typescript, Node, Express
+***Health services locator*** a SPA developed from scratch for a NGO that allows people to search for several health services across South America (i.e. free HIV testing sites). Technologies Used: React, Typescript, Node, Express
 
 `June 2021 - February 2022`
 __Software Developer__ \
