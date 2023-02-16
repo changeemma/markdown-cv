@@ -18,8 +18,12 @@ Always looking to adopt best practices and habits in order to become a better pr
 
 ## Experience
 
+`September 2022 - current`
+__Software Engineer__ \
+*[Medallia](https://medallia.com), Pleasanton, CA, USA*\
+Assigned to the Platform Services team to support high available and distributed infrastructure services used by customer facing services. Technologies Used: Kubernetes, Docker, ArgoCD, Kafka, Redis, ElasticSearch, Hadoop, Spark, Airflow
 
-`February 2022 - current`
+`February 2022 - September 2022`
 __Software Developer__ \
 *[10Pines](https://10pines.com), Buenos Aires, AR*\
 ***E-commerce platform***: Worked on a web platform of a leading cannabis operator in California. Refactored frontend components to meet ADA standards. Developed back-end and front-end integration with an electronic payment method. Technologies Used: Vue.js, Node, Express, MongoDB. \
