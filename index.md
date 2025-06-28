@@ -3,7 +3,7 @@ layout: cv
 title: Emmanuel Chang's CV
 ---
 # Emmanuel Chang
-Software Developer, Electronics Engineering Student.
+Software Engineer, Electronics Engineering Student.
 
 <div id="webaddress">
 Buenos Aires, AR |
@@ -12,9 +12,8 @@ Buenos Aires, AR |
 </div>
 
 ## About me
-Software developer who loves solving challenging problems and is eager to learn working with others while achieving common goals.
-
-Always looking to adopt best practices and habits in order to become a better professional.
+Software Engineer passionate about solving challenging problems and continuously learning through collaboration.
+Motivated by teamwork and shared goals, I strive to adopt best practices and develop strong professional habits that help me grow both technically and personally.
 
 ## Experience
 
