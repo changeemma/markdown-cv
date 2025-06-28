@@ -19,7 +19,7 @@ Always looking to adopt best practices and habits in order to become a better pr
 ## Experience
 
 `September 2022 - current`
-__Software Engineer__ \
+__Senior Software Engineer__ \
 *[Medallia](https://medallia.com), Pleasanton, CA, USA*\
 Assigned to the Platform Services team to support high available and distributed infrastructure services used by customer facing services. Technologies Used: Kubernetes, Docker, ArgoCD, Kafka, Redis, ElasticSearch, Hadoop, Spark, Airflow
 
@@ -58,7 +58,7 @@ Joined Geodesy Department as an IT intern to collaborate in the management of se
 `August 2012 - present`
 __Faculty of Engineering, University of Buenos Aires__\
 *Buenos Aires, AR*\
-Electronics Engineering. Expected graduation: Mid 2023.
+Electronics Engineering. Expected graduation: Mid 2025.
 
 `2007 - 2011`
 __Colegio Nacional de Buenos Aires__\
