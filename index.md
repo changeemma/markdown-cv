@@ -3,7 +3,7 @@ layout: cv
 title: Emmanuel Chang's CV
 ---
 # Emmanuel Chang
-Software Engineer, Electronics Engineering Student.
+Software Engineer, Electronics Engineer.
 
 <div id="webaddress">
 Buenos Aires, AR |
@@ -54,10 +54,10 @@ Joined Geodesy Department as an IT intern to collaborate in the management of se
 
 ## Education
 
-`August 2012 - present`
+`August 2012 - October 2025`
 __Faculty of Engineering, University of Buenos Aires__\
 *Buenos Aires, AR*\
-Electronics Engineering. Expected graduation: Oct 2025.
+Electronics Engineering.
 
 `2007 - 2011`
 __Colegio Nacional de Buenos Aires__\
