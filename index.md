@@ -20,15 +20,12 @@ Motivated by teamwork and shared goals, I strive to adopt best practices and dev
 `September 2022 - current`
 __Senior Software Engineer__ \
 *[Medallia](https://medallia.com), Pleasanton, CA, USA*\
-Operate and improve high-availability data infrastructure for customer-facing services
-Manage and optimize distributed systems (Kafka, Elasticsearch, Redis, Hadoop, Spark)
-Enhance observability through monitoring, alerting and dashboards
-Perform incident response and implement automation to improve reliability and scalability
-Support application onboarding and collaborate with stakeholders on scalable solutions
-
-
-Fully managed and scaled critical distributed infrastructure services that power the business, ensuring high available
-Assigned to the Platform Services team to support high available and distributed infrastructure services used by customer facing services. Technologies Used: Kubernetes, Docker, ArgoCD, Kafka, Redis, ElasticSearch, Hadoop, Spark, Airflow
+- Operate and improve high-availability data infrastructure for customer-facing services  
+- Manage and optimize distributed systems (Kafka, Elasticsearch, Redis, Hadoop, Spark)  
+- Enhance observability through monitoring, alerting and dashboards  
+- Perform incident response and implement automation to improve reliability and scalability  
+- Support application onboarding and collaborate with stakeholders on scalable solutions  
+- **Tech:** Kafka, Elasticsearch, Redis, Hadoop, Spark, Docker, Kubernetes  
 
 `February 2022 - September 2022`
 __Software Developer__ \
