@@ -20,37 +20,49 @@ Motivated by teamwork and shared goals, I strive to adopt best practices and dev
 `September 2022 - current`
 __Senior Software Engineer__ \
 *[Medallia](https://medallia.com), Pleasanton, CA, USA*\
+Operate and improve high-availability data infrastructure for customer-facing services
+Manage and optimize distributed systems (Kafka, Elasticsearch, Redis, Hadoop, Spark)
+Enhance observability through monitoring, alerting and dashboards
+Perform incident response and implement automation to improve reliability and scalability
+Support application onboarding and collaborate with stakeholders on scalable solutions
+
+
+Fully managed and scaled critical distributed infrastructure services that power the business, ensuring high available
 Assigned to the Platform Services team to support high available and distributed infrastructure services used by customer facing services. Technologies Used: Kubernetes, Docker, ArgoCD, Kafka, Redis, ElasticSearch, Hadoop, Spark, Airflow
 
 `February 2022 - September 2022`
 __Software Developer__ \
 *[10Pines](https://10pines.com), Buenos Aires, AR*\
-***E-commerce platform***: Worked on a web platform of a leading cannabis operator in California. Refactored frontend components to meet ADA standards. Developed back-end and front-end integration with an electronic payment method. Technologies Used: Vue.js, Node, Express, MongoDB. \
-***Health services locator*** a SPA developed from scratch for a NGO that allows people to search for several health services across South America (i.e. free HIV testing sites). Technologies Used: React, Typescript, Node, Express
+- Developed and maintained an e-commerce platform; improved frontend accessibility to meet ADA standards  
+- Built backend and frontend integrations for electronic payment systems  
+- Designed and developed a health services locator SPA used across Argentina
+- **Tech:** Vue.js, React, TypeScript, Node.js, Express, MongoDB
 
 `June 2021 - February 2022`
 __Software Developer__ \
 *[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
-Worked in Networking team alongside network engineers. Technologies Used: Python, FastAPI, InfluxDB, Grafana, React, PostgreSQL, Docker
-- Developed a REST API that offers networking operations as a service.
-- Automated processes: compute and display obsolescence status in active devices; synchronize inventory from different platforms.
-- Implemented a speedtest tool to measure connection metrics through VPN.
+- Developed REST APIs for network operations as a service  
+- Automated device lifecycle tracking and inventory synchronization  
+- Built VPN-based network performance measurement tool  
+- **Tech:** Python, FastAPI, InfluxDB, Grafana, React, PostgreSQL, Docker  
 
 `November 2019 - April 2021`
 __IT Technician__ \
 *[Instituto Antártico Argentino](https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino), [Carlini Antarctic Base](https://goo.gl/maps/FJC7HRojAxb5TbbU7), AQ*\
-Participated in the 2020's summer, 2020's winter and 2021's summer campaigns.
-Participated as overwintering technician in 2020’s summer and winter campaigns and 2021’s summer. Field work for scientific projects (Criology, Geodesy, Seismology). Maintained and managed satellital links and local network.
+- Supported scientific missions (Cryology, Geodesy, Seismology) in Antarctic campaigns  
+- Managed satellite communications and local network infrastructure in extreme environments
 
 `December 2018 - November 2019`
 __Software Developer__ \
 *[Iquall Networks](https://iquall.net/), Buenos Aires, AR*\
-Developed a network automation framework for clients with nationwide impact. Technologies Used: Airflow, Ansible, MongoDB, Grafana, InfluxData’s TICK stack
+- Developed network automation framework with nationwide client impact  
+- **Tech:** Airflow, Ansible, MongoDB, Grafana, InfluxDB (TICK stack)
 
 `November 2017 - December 2018`
 __IT Intern__ \
 *[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR*\
-Joined Geodesy Department as an IT intern to collaborate in the management of several GNSS receivers distributed throughout Argentina. Technologies Used: PHP, Python, BASH scripting.
+- Supported GNSS infrastructure management across Argentina  
+- **Tech:** Python, PHP, Bash
 
 ## Education
 
