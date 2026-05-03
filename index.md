@@ -19,7 +19,7 @@ Motivated by teamwork and shared goals, I strive to adopt best practices and dev
 
 `September 2022 - current`
 __Senior Software Engineer__ \
-*[Medallia](https://medallia.com), Pleasanton, CA, USA*\
+*[Medallia](https://medallia.com), Buenos Aires, AR*\
 - Operate and improve high-availability data infrastructure for customer-facing services  
 - Manage and optimize distributed systems (Kafka, Elasticsearch, Redis, Hadoop, Spark)  
 - Enhance observability through monitoring, alerting and dashboards  
