@@ -19,7 +19,7 @@ Motivated by teamwork and shared goals, I strive to adopt best practices and dev
 
 `September 2022 - current`
 __Senior Software Engineer__ \
-*[Medallia](https://medallia.com), Buenos Aires, AR*\
+*[Medallia](https://medallia.com), Buenos Aires, AR* \
 - Operate and improve high-availability data infrastructure for customer-facing services  
 - Manage and optimize distributed systems (Kafka, Elasticsearch, Redis, Hadoop, Spark)  
 - Enhance observability through monitoring, alerting and dashboards  
@@ -29,7 +29,7 @@ __Senior Software Engineer__ \
 
 `February 2022 - September 2022`
 __Software Developer__ \
-*[10Pines](https://10pines.com), Buenos Aires, AR*\
+*[10Pines](https://10pines.com), Buenos Aires, AR* \
 - Developed and maintained an e-commerce platform; improved frontend accessibility to meet ADA standards  
 - Built backend and frontend integrations for electronic payment systems  
 - Designed and developed a health services locator SPA used across Argentina
@@ -37,7 +37,7 @@ __Software Developer__ \
 
 `June 2021 - February 2022`
 __Software Developer__ \
-*[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR*\
+*[Santander Tecnología](https://www.linkedin.com/company/santandertec), Buenos Aires, AR* \
 - Developed REST APIs for network operations as a service  
 - Automated device lifecycle tracking and inventory synchronization  
 - Built VPN-based network performance measurement tool  
@@ -45,19 +45,19 @@ __Software Developer__ \
 
 `November 2019 - April 2021`
 __IT Technician__ \
-*[Instituto Antártico Argentino](https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino), [Carlini Antarctic Base](https://goo.gl/maps/FJC7HRojAxb5TbbU7), AQ*\
+*[Instituto Antártico Argentino](https://www.cancilleria.gob.ar/es/iniciativas/dna/instituto-antartico-argentino), [Carlini Antarctic Base](https://goo.gl/maps/FJC7HRojAxb5TbbU7), AQ* \
 - Supported scientific missions (Cryology, Geodesy, Seismology) in Antarctic campaigns  
 - Managed satellite communications and local network infrastructure in extreme environments
 
 `December 2018 - November 2019`
 __Software Developer__ \
-*[Iquall Networks](https://iquall.net/), Buenos Aires, AR*\
+*[Iquall Networks](https://iquall.net/), Buenos Aires, AR* \
 - Developed network automation framework with nationwide client impact  
 - **Tech:** Airflow, Ansible, MongoDB, Grafana, InfluxDB (TICK stack)
 
 `November 2017 - December 2018`
 __IT Intern__ \
-*[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR*\
+*[Instituto Geográfico Nacional](https://www.ign.gob.ar/), Buenos Aires, AR* \
 - Supported GNSS infrastructure management across Argentina  
 - **Tech:** Python, PHP, Bash
 
